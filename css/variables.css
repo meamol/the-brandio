@@ -1,0 +1,73 @@
+
+/* ----------------------------------
+      VARIABLES
+---------------------------------- */
+
+:root {
+
+  /* Colors */
+  --color-bg: #0b0b0e;
+  --color-bg-1: #000000;
+  --color-menubg: #121212;
+  --color-primary: #e10600;
+  --color-secondary: #0057ff;
+  --color-accent: #00ff9c;
+  --color-text: #ffffff;
+  --color-muted: #9ca3af;
+
+  /* Border */
+  --border-1: #222222;
+
+  /* line-height */
+  --line-height-1: 1.5;
+  --line-height-2: 1.6;
+
+  /* Fonts */
+  --font-logo: 'Bebas Neue', sans-serif;
+  --font-heading: 'Bebas Neue', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Logo */
+  --company-logo-28: 28px;
+  --company-logo-32: 32px;
+
+  /* Letter spacing */
+  --letter-spacing-1: 1px;
+  --letter-spacing-2: 2px;
+  --letter-spacing-3: 3px;
+
+  /* Font Weights */
+  --fw-regular: 400;
+  --fw-semitext: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  /* Layout */
+  --container-width: 1200px;
+  --header-height: 72px;
+
+  /* Spacing */
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 48px;
+
+  /* Border */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+
+  /* Z-index */
+  --z-header: 1000;
+
+  /* Padding */
+  --padding-16: 16px;
+
+}
+
+
+
+
+
+/* =================================
+      END
+================================= */

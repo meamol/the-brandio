@@ -1,0 +1,42 @@
+
+/* =================================
+    CSS RESET – INDUSTRY STANDARD
+================================= */
+
+/* Box sizing */
+*, *::before, *::after { box-sizing: border-box; }
+
+/* Remove default margin */
+* { margin: 0; padding: 0; }
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
+/* Body defaults */
+body { line-height: 1.5; -webkit-font-smoothing: antialiased; }
+
+/* Media defaults */
+img, picture, video, canvas, svg { display: block; max-width: 100%; height: auto; }
+
+/* Form elements */
+input, button, textarea, select { font: inherit; }
+
+/* Headings overflow fix */
+h1, h2, h3, h4, h5, h6, p { overflow-wrap: break-word; }
+
+/* Unused but future safe resets */
+table { border-collapse: collapse; }
+
+/* Remove default link styling */
+a { text-decoration: none; color: inherit; }
+
+/* Remove default list bullets and spacing */
+ul, ol { list-style: none !important; margin: 0; padding: 0; }
+
+
+
+
+
+/* =================================
+      END
+================================= */
